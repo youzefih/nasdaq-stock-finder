@@ -1,0 +1,2 @@
+
+This Java application uses yahoo-finance API to download all of the real-time Volume of all nasdaq stocks, as well as their daily volume average. Then, it get's the ratio of the average volume versus the current volume to see the percent change. Ultimately, The it outputs on a .txt file the stocks sorted from highest volume percent change to lowest.
